@@ -1,5 +1,10 @@
 ;aiu;
 
+[General]
+MessageTitle = Notification Title
+MessageBody = Notification Message
+MessageExpirationDate = 30/10/2020
+
 [Update]
 Name = Updater Test
 ProductVersion = 2.0.0.0
