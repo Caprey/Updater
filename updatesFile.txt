@@ -1,1 +1,20 @@
-update file
+;aiu;
+
+[Update]
+Name = Updater Test
+ProductVersion = 2.0.0.0
+URL = https://raw.githubusercontent.com/Caprey/Updater/main/Updater_Test2.0.0.exe
+Size = 28167878
+SHA256 = A14DABA0B80C3F9B9CDB59FD847104F527EBB82343B58F3FB9D9594519A6618E
+MD5 = d2e4427e386018383579caa7849d1ffe
+ServerFileName = Updater_Test2.0.0.exe
+RegistryKey = HKUD\Software\FACEGOOD\Updater Test\Version
+Version = 2.0.0.0
+Description = version 2 is avaliable
+Feature = 新特性
+Enhancement = 新功能增加：
+Enhancement1 = 1.22
+Enhancement2 = 2.232
+BugFix = 修复了：
+BugFix1 = 1.1.bug
+BugFix2 = 2.bug
